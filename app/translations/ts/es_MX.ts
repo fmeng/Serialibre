@@ -358,14 +358,14 @@
         <translation>¡Apoya el desarrollo de %1!</translation>
     </message>
     <message>
-        <location filename="../../qml/Dialogs/Donate.qml" line="208"/>
-        <source>Serial Studio is free &amp; open-source software supported by volunteers. Consider donating to support development efforts :)</source>
-        <translation>Serial Studio es un software libre y de código abierto apoyado por voluntarios. Considera hacer una donación para apoyar los esfuerzos de desarrollo :)</translation>
+        <location filename="../../qml/Dialogs/Donate.qml" line="209"/>
+        <source>Serialibre is based on Serial Studio by Alex Spataru. If you'd like to support Alex for the impressive foundation of work he's created,feel free to donate to him via the button below.</source>
+        <translation>Serial Studio: Considera hacer una donación para apoyar los esfuerzos de desarrollo.</translation>
     </message>
     <message>
         <location filename="../../qml/Dialogs/Donate.qml" line="221"/>
-        <source>You can also support this project by sharing it, reporting bugs and proposing new features!</source>
-        <translation>¡También puedes apoyar este proyecto compartiéndolo, reportando errores y proponiendo nuevas funciones!</translation>
+        <source>You can support this project directly by submitting Pull Requests and checking out my other work :)</source>
+        <translation>¡También puedes apoyar este proyecto compartiéndolo, reportando errores y proponiendo nuevas funciones :)</translation>
     </message>
     <message>
         <source>Don&apos;t annoy me again!</source>

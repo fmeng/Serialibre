@@ -338,13 +338,13 @@
         <translation></translation>
     </message>
     <message>
-        <location filename="../../qml/Dialogs/Donate.qml" line="208"/>
-        <source>Serial Studio is free &amp; open-source software supported by volunteers. Consider donating to support development efforts :)</source>
+        <location filename="../../qml/Dialogs/Donate.qml" line="209"/>
+        <source>Serialibre is based on Serial Studio by Alex Spataru. If you'd like to support Alex for the impressive foundation of work he's created,feel free to donate to him via the button below.</source>
         <translation></translation>
     </message>
     <message>
         <location filename="../../qml/Dialogs/Donate.qml" line="221"/>
-        <source>You can also support this project by sharing it, reporting bugs and proposing new features!</source>
+        <source>You can support this project directly by submitting Pull Requests and checking out my other work :)</source>
         <translation></translation>
     </message>
 </context>
