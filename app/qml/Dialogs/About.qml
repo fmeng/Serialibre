@@ -195,7 +195,7 @@ Window {
         Layout.maximumWidth: 320
         font: Cpp_Misc_CommonFonts.uiFont
         wrapMode: Label.WrapAtWordBoundaryOrAnywhere
-        text: qsTr("Copyright © 2020-%1 %2, released under the MIT License.").arg(root.year).arg(Cpp_AppOrganization)
+        text: qsTr("Copyright © 2020-2024 Alex Spataru, 2025 Peter S. Hollander; released under the MIT License.")
       }
 
       Label {
@@ -214,7 +214,7 @@ Window {
       Button {
         Layout.fillWidth: true
         text: qsTr("Website")
-        onClicked: Qt.openUrlExternally("https://serial-studio.github.io/")
+        onClicked: Qt.openUrlExternally("https://github.com/recursivenomad-forks/Serialibre/")
       }
 
       Button {
@@ -232,7 +232,7 @@ Window {
       Button {
         Layout.fillWidth: true
         text: qsTr("Report Bug")
-        onClicked: Qt.openUrlExternally("https://github.com/Serial-Studio/Serial-Studio/issues")
+        onClicked: Qt.openUrlExternally("https://github.com/recursivenomad-forks/Serialibre/issues")
       }
 
       Button {
