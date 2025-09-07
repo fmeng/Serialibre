@@ -55,7 +55,7 @@ set(PROJECT_CONTACT             "https://github.com/recursivenomad-forks/Seriali
 set(PROJECT_DESCRIPTION_SUMMARY "Flexible data visualization software for embedded devices and projects")
 set(PROJECT_VERSION_MAJOR       "3")
 set(PROJECT_VERSION_MINOR       "0")
-set(PROJECT_VERSION_PATCH       "7")
+set(PROJECT_VERSION_PATCH       "8")
 set(PROJECT_VERSION             "${PROJECT_VERSION_MAJOR}.${PROJECT_VERSION_MINOR}.${PROJECT_VERSION_PATCH}")
 set(PROJECT_APPCAST             "https://raw.githubusercontent.com/recursivenomad-forks/Serialibre/master/updates.json")
 

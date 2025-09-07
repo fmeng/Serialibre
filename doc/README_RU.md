@@ -38,8 +38,8 @@
 Скачайте файл AppImage и убедитесь, что у него есть разрешения на выполнение перед запуском:
 
 ```
-chmod +x Serialibre-3.0.5-Linux-x86_64.AppImage
-./SerialStudio-3.0.5-Linux-x86_64.AppImage
+chmod +x Serialibre-3.0.8-Linux-x86_64.AppImage
+./SerialStudio-3.0.8-Linux-x86_64.AppImage
 ```
 
 Примечание: Возможно, вам потребуется установить libfuse2, чтобы AppImage работал. В системах на основе Debian/Ubuntu вы можете установить его с помощью:
@@ -58,13 +58,13 @@ sudo apt install libfuse2
 Для дистрибутивов на основе Debian (например, Debian, Ubuntu, Linux Mint и др.):
 
 ```
-sudo dpkg -i Serialibre-3.0.5-Linux-x86_64.deb
+sudo dpkg -i Serialibre-3.0.8-Linux-x86_64.deb
 ```
 
 Для дистрибутивов на основе RPM (например, Fedora, RHEL, OpenSUSE и др.):
 
 ```
-sudo rpm -i Serialibre-3.0.5-Linux-x86_64.rpm
+sudo rpm -i Serialibre-3.0.8-Linux-x86_64.rpm
 ```
 
 ## Разработка

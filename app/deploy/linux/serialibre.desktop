@@ -8,5 +8,5 @@ StartupNotify=true
 Categories=Electronics;Engineering;Science;
 Icon=serialibre
 X-AppImage-Name=Serialibre
-X-AppImage-Version=3.0.7
+X-AppImage-Version=3.0.8
 X-AppImage-Arch=x86_64

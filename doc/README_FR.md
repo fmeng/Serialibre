@@ -39,8 +39,8 @@ Pour les utilisateurs de GNU/Linux, il existe plusieurs façons d’installer et
 Téléchargez le fichier AppImage et assurez-vous qu’il dispose des permissions d’exécution avant de le lancer :
 
 ```
-chmod +x Serialibre-3.0.5-Linux-x86_64.AppImage
-./SerialStudio-3.0.5-Linux-x86_64.AppImage
+chmod +x Serialibre-3.0.8-Linux-x86_64.AppImage
+./SerialStudio-3.0.8-Linux-x86_64.AppImage
 ```
 
 *Remarque :* Vous pourriez avoir besoin d’installer libfuse2 pour que l’AppImage fonctionne. Sur les systèmes basés sur Debian/Ubuntu, vous pouvez l’installer avec :
@@ -59,13 +59,13 @@ Vous pouvez également installer Serial Studio avec des paquets DEB ou RPM, qui 
 Pour les distributions basées sur Debian (par ex., Debian, Ubuntu, Linux Mint, etc.) :
 
 ```
-sudo dpkg -i Serialibre-3.0.5-Linux-x86_64.deb
+sudo dpkg -i Serialibre-3.0.8-Linux-x86_64.deb
 ```
 
 Pour les distributions basées sur RPM (par ex., Fedora, RHEL, OpenSUSE, etc.) :
 
 ```
-sudo rpm -i Serialibre-3.0.5-Linux-x86_64.rpm
+sudo rpm -i Serialibre-3.0.8-Linux-x86_64.rpm
 ```
 
 ## Développement

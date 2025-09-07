@@ -40,8 +40,8 @@
 下载 AppImage 文件，并确保它具有正确的执行权限，然后运行：
 
 ```
-chmod +x Serialibre-3.0.5-Linux-x86_64.AppImage
-./SerialStudio-3.0.5-Linux-x86_64.AppImage
+chmod +x Serialibre-3.0.8-Linux-x86_64.AppImage
+./SerialStudio-3.0.8-Linux-x86_64.AppImage
 ```
 
 注意： 可能需要安装 libfuse2 以确保 AppImage 能够正常工作。在基于 Debian/Ubuntu 的系统上，可以使用以下命令进行安装：
@@ -60,13 +60,13 @@ sudo apt install libfuse2
 对于基于 Debian 的发行版（例如 Debian、Ubuntu、Linux Mint 等）：
 
 ```
-sudo dpkg -i Serialibre-3.0.5-Linux-x86_64.deb
+sudo dpkg -i Serialibre-3.0.8-Linux-x86_64.deb
 ```
 
 对于基于 RPM 的发行版（例如 Fedora、RHEL、OpenSUSE 等）：
 
 ```
-sudo rpm -i Serialibre-3.0.5-Linux-x86_64.rpm
+sudo rpm -i Serialibre-3.0.8-Linux-x86_64.rpm
 ```
 
 ## 开发
