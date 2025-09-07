@@ -1,14 +1,16 @@
 # Serialibre - A minimally maintained fork of [Serial Studio](https://github.com/Serial-Studio/Serial-Studio/)
 
-<a href="#">
-    <img width="192px" height="192px" src="/doc/icon.svg" align="right" />
-</a>
-
-Serial Studio est un outil de visualisation de données multiplateforme et polyvalent conçu pour les ingénieurs en électronique, les étudiants, les hackers et les enseignants. Il permet aux utilisateurs de visualiser, analyser et représenter les données de leurs projets et dispositifs sans avoir besoin d'un logiciel de visualisation spécifique au projet. Serial Studio offre une solution flexible qui s'adapte à une grande variété de cas d'utilisation, ce qui le rend idéal pour les environnements éducatifs et professionnels.
-
-L'outil est né de mon expérience dans plusieurs compétitions basées sur CanSat, où je me retrouvais souvent à développer un nouveau logiciel de station au sol pour chaque projet. Au fil du temps, j'ai réalisé qu'il serait plus efficace et durable de maintenir un seul logiciel de station au sol flexible, permettant aux utilisateurs de définir comment les données entrantes sont traitées et affichées.
-
-Aujourd'hui, Serial Studio est un outil puissant et adaptable, adapté non seulement aux compétitions CanSat, mais aussi à tout projet d'acquisition et de visualisation de données. Il prend en charge la récupération de données à partir d'une grande variété de sources, y compris les ports série matériel et logiciel, MQTT, Bluetooth Low Energy (BLE) et les sockets réseau (TCP/UDP).
+> <a href="#">
+>   <img width="192px" height="192px" src="../doc/icon.svg" align="right" />
+> </a>
+>
+> ***Alex Spataru:***
+>
+> Serial Studio est un outil de visualisation de données multiplateforme et polyvalent conçu pour les ingénieurs en électronique, les étudiants, les hackers et les enseignants. Il permet aux utilisateurs de visualiser, analyser et représenter les données de leurs projets et dispositifs sans avoir besoin d'un logiciel de visualisation spécifique au projet. Serial Studio offre une solution flexible qui s'adapte à une grande variété de cas d'utilisation, ce qui le rend idéal pour les environnements éducatifs et professionnels.
+>
+> L'outil est né de mon expérience dans plusieurs compétitions basées sur CanSat, où je me retrouvais souvent à développer un nouveau logiciel de station au sol pour chaque projet. Au fil du temps, j'ai réalisé qu'il serait plus efficace et durable de maintenir un seul logiciel de station au sol flexible, permettant aux utilisateurs de définir comment les données entrantes sont traitées et affichées.
+> 
+> Aujourd'hui, Serial Studio est un outil puissant et adaptable, adapté non seulement aux compétitions CanSat, mais aussi à tout projet d'acquisition et de visualisation de données. Il prend en charge la récupération de données à partir d'une grande variété de sources, y compris les ports série matériel et logiciel, MQTT, Bluetooth Low Energy (BLE) et les sockets réseau (TCP/UDP).
 
 *Lire ce document dans d'autres langues* : [Español](/doc/README_ES.md) [简体中文](/doc/README_ZH.md) [Deutsch](/doc/README_DE.md) [Русский](/doc/README_RU.md) [Français](/doc/README_FR.md)
 

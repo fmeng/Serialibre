@@ -4,11 +4,22 @@
     <img width="192px" height="192px" src="doc/icon.svg" align="right" />
 </a>
 
-Serial Studio is a multi-platform, versatile data visualization tool designed for embedded engineers, students, hackers, and teachers. It allows users to visualize, analyze, and represent data from their projects and devices without needing custom, project-specific visualization software. Serial Studio offers a flexible solution that adapts to a wide range of use cases, making it ideal for both educational and professional environments.
+I needed a reliable, open-source, and intuitive serial monitor for my hardware projects.  Serial Studio was an ideal match, and even came with a tonne of features I'll admit I still have yet to ever use, but can absolutely see the immense utility of.
 
-The tool was born out of my experience in multiple CanSat-based competitions, where I often found myself developing new Ground Station Software for each project. Over time, I realized it would be more efficient and sustainable to maintain a single, flexible Ground Station Software that allows users to define how incoming data is processed and displayed.
+In early 2025, the project changed its licensing and monetization.  This repository is a fork from the last permissively-licensed commit to Serial Studio, with my own little fixes periodically tacked on as my personal projects require them.  I don't plan on becoming a thorough maintainer of this software *(certainly nowhere close to the dedication Alex has given this work)*, as this is my first exposure to working with the Qt Framework, and I have other projects I would like to prioritize.
 
-Today, Serial Studio is a powerful and adaptable tool, suitable not only for CanSat competitions but for any data acquisition and visualization project. It supports data retrieval from a wide range of sources, including hardware and software serial ports, MQTT, Bluetooth Low Energy (BLE), and network sockets (TCP/UDP).
+That said, if you too are looking for a reliable, open-source, and intuitive serial monitor that you periodically add features to as you need them, then feel free to [submit a Pull Request](https://github.com/recursivenomad-forks/Serialibre/pulls/) and join the fun :)
+
+And of course, check out Alex's [Serial Studio](https://github.com/Serial-Studio/Serial-Studio/) repository for lots more features, a real maintainer, and ways to donate.
+
+> ***Alex Spataru:***  
+> *(creator of the original Serial Studio)*
+>
+> Serial Studio is a multi-platform, versatile data visualization tool designed for embedded engineers, students, hackers, and teachers. It allows users to visualize, analyze, and represent data from their projects and devices without needing custom, project-specific visualization software. Serial Studio offers a flexible solution that adapts to a wide range of use cases, making it ideal for both educational and professional environments.
+>
+> The tool was born out of my experience in multiple CanSat-based competitions, where I often found myself developing new Ground Station Software for each project. Over time, I realized it would be more efficient and sustainable to maintain a single, flexible Ground Station Software that allows users to define how incoming data is processed and displayed.
+>
+> Today, Serial Studio is a powerful and adaptable tool, suitable not only for CanSat competitions but for any data acquisition and visualization project. It supports data retrieval from a wide range of sources, including hardware and software serial ports, MQTT, Bluetooth Low Energy (BLE), and network sockets (TCP/UDP).
 
 *Read this document in other languages*: [Español](doc/README_ES.md) [简体中文](doc/README_ZH.md) [Deutsch](doc/README_DE.md) [Русский](doc/README_RU.md) [Français](doc/README_FR.md)
 

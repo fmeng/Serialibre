@@ -1,14 +1,16 @@
-<a href="#">
-    <img width="192px" height="192px" src="/doc/icon.svg" align="right" />
-</a>
-
 # Serialibre - A minimally maintained fork of [Serial Studio](https://github.com/Serial-Studio/Serial-Studio/)
 
-Serial Studio 是一个跨平台、功能多样的数据可视化工具，专为嵌入式系统工程师、学生、黑客和教师设计。它允许用户可视化、分析和展示他们项目和设备中的数据，而无需为每个项目开发特定的可视化软件。**Serial Studio** 提供了一种灵活的解决方案，适应各种使用场景，非常适合教育和专业环境。
-
-这个工具源于我在多个 CanSat 比赛中的经验，那时我经常需要为每个项目开发新的地面站软件。随着时间的推移，我意识到维护一个灵活的通用软件，让用户可以定义如何处理和显示传入的数据，会更加高效和可持续。
-
-如今，Serial Studio 是一个强大且灵活的工具，不仅适用于 CanSat 竞赛，也适用于任何数据采集和可视化项目。它支持从多种来源获取数据，包括串行端口、MQTT、蓝牙低功耗 (BLE) 和网络套接字 (TCP/UDP)。
+> <a href="#">
+>   <img width="192px" height="192px" src="../doc/icon.svg" align="right" />
+> </a>
+>
+> ***Alex Spataru:***
+>
+> Serial Studio 是一个跨平台、功能多样的数据可视化工具，专为嵌入式系统工程师、学生、黑客和教师设计。它允许用户可视化、分析和展示他们项目和设备中的数据，而无需为每个项目开发特定的可视化软件。**Serial Studio** 提供了一种灵活的解决方案，适应各种使用场景，非常适合教育和专业环境。
+>
+> 这个工具源于我在多个 CanSat 比赛中的经验，那时我经常需要为每个项目开发新的地面站软件。随着时间的推移，我意识到维护一个灵活的通用软件，让用户可以定义如何处理和显示传入的数据，会更加高效和可持续。
+>
+> 如今，Serial Studio 是一个强大且灵活的工具，不仅适用于 CanSat 竞赛，也适用于任何数据采集和可视化项目。它支持从多种来源获取数据，包括串行端口、MQTT、蓝牙低功耗 (BLE) 和网络套接字 (TCP/UDP)。
 
 *阅读其他语言版本的文档*: [Español](/doc/README_ES.md) [简体中文](/doc/README_ZH.md) [Deutsch](/doc/README_DE.md) [Русский](/doc/README_RU.md) [Français](/doc/README_FR.md)
 

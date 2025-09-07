@@ -1,14 +1,16 @@
-<a href="#">
-    <img width="192px" height="192px" src="/doc/icon.svg" align="right" />
-</a>
-
 # Serialibre - A minimally maintained fork of [Serial Studio](https://github.com/Serial-Studio/Serial-Studio/)
 
-Serial Studio es una herramienta de visualización de datos multiplataforma y versátil, diseñada para ingenieros de sistemas embebidos, estudiantes, hackers y profesores. Permite a los usuarios visualizar, analizar y representar los datos de sus proyectos y dispositivos sin necesidad de desarrollar software de visualización específico para cada proyecto. Serial Studio ofrece una solución flexible que se adapta a una amplia gama de casos de uso, haciéndola ideal tanto para entornos educativos como profesionales.
-
-La herramienta nació de mi experiencia en múltiples competencias basadas en CanSat, donde a menudo me encontraba desarrollando nuevo software para la estación terrena para cada proyecto. Con el tiempo, me di cuenta de que sería más eficiente y sostenible mantener un único programa que sea flexible, que permitiera a los usuarios definir cómo se procesan y muestran los datos entrantes.
-
-Hoy en día, Serial Studio es una herramienta poderosa y adaptable, adecuada no solo para competencias de CanSat, sino para cualquier proyecto de adquisición y visualización de datos. Soporta la recuperación de datos desde una amplia gama de fuentes, incluyendo puertos seriales, MQTT, Bluetooth Low Energy (BLE), y sockets de red (TCP/UDP).
+> <a href="#">
+>   <img width="192px" height="192px" src="../doc/icon.svg" align="right" />
+> </a>
+>
+> ***Alex Spataru:***
+>
+> Serial Studio es una herramienta de visualización de datos multiplataforma y versátil, diseñada para ingenieros de sistemas embebidos, estudiantes, hackers y profesores. Permite a los usuarios visualizar, analizar y representar los datos de sus proyectos y dispositivos sin necesidad de desarrollar software de visualización específico para cada proyecto. Serial Studio ofrece una solución flexible que se adapta a una amplia gama de casos de uso, haciéndola ideal tanto para entornos educativos como profesionales.
+>
+> La herramienta nació de mi experiencia en múltiples competencias basadas en CanSat, donde a menudo me encontraba desarrollando nuevo software para la estación terrena para cada proyecto. Con el tiempo, me di cuenta de que sería más eficiente y sostenible mantener un único programa que sea flexible, que permitiera a los usuarios definir cómo se procesan y muestran los datos entrantes.
+>
+> Hoy en día, Serial Studio es una herramienta poderosa y adaptable, adecuada no solo para competencias de CanSat, sino para cualquier proyecto de adquisición y visualización de datos. Soporta la recuperación de datos desde una amplia gama de fuentes, incluyendo puertos seriales, MQTT, Bluetooth Low Energy (BLE), y sockets de red (TCP/UDP).
 
 *Lee este documento en otros idiomas*: [Español](/doc/README_ES.md) [简体中文](/doc/README_ZH.md) [Deutsch](/doc/README_DE.md) [Русский](/doc/README_RU.md) [Français](/doc/README_FR.md)
 
