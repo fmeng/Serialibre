@@ -43,7 +43,7 @@ JSON::FrameBuilder::FrameBuilder()
     loadJsonMap(path);
 
   // Obtain operation mode from settings
-  auto m = m_settings.value("operation_mode", SerialStudio::QuickPlot).toInt();
+  auto m = m_settings.value("operation_mode", SerialStudio::DeviceSendsJSON).toInt();
   setOperationMode(static_cast<SerialStudio::OperationMode>(m));
 }
 

@@ -41,7 +41,7 @@
  * dataframes into JSON list.
  */
 CSV::Export::Export()
-  : m_exportEnabled(true)
+  : m_exportEnabled(false)
 {
   m_csvPath = QStringLiteral("%1/%2/CSV")
                   .arg(QStandardPaths::writableLocation(

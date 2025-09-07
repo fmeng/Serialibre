@@ -78,7 +78,7 @@ Misc::ThemeManager::ThemeManager()
   }
 
   // Set application theme
-  setTheme(m_settings.value("Theme", 0).toInt());
+  setTheme(m_settings.value("Theme", 2).toInt());
 
   // Automatically react to theme changes
   qApp->installEventFilter(this);

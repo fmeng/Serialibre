@@ -187,7 +187,7 @@ Item {
     //
     TerminalWidget {
       id: terminal
-      vt100emulation: true
+      vt100emulation: false
       Layout.fillWidth: true
       Layout.fillHeight: true
       Layout.minimumHeight: terminal.charHeight * root.minimumRows

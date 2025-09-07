@@ -105,7 +105,7 @@ Item {
     } ComboBox {
       id: _baudCombo
       editable: true
-      currentIndex: 6
+      currentIndex: 10
       Layout.fillWidth: true
       model: Cpp_IO_Serial.baudRateList
 

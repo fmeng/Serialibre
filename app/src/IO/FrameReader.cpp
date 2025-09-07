@@ -39,7 +39,7 @@
 IO::FrameReader::FrameReader(QObject *parent)
   : QObject(parent)
   , m_enableCrc(false)
-  , m_operationMode(SerialStudio::QuickPlot)
+  , m_operationMode(SerialStudio::DeviceSendsJSON)
   , m_frameDetectionMode(SerialStudio::EndDelimiterOnly)
   , m_dataBuffer(1024 * 1024)
 {
