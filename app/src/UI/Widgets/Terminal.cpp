@@ -1042,6 +1042,11 @@ void Widgets::Terminal::processText(const QChar &byte, QString &text)
     setCursorPosition(m_cursorPosition.x() + tabToSpaces, m_cursorPosition.y());
   }
 
+  else if (byte == '\a')
+  {
+    QApplication::beep();
+  }
+
   else if (byte == '\b' && vt100emulation())
   {
     if (m_cursorPosition.x())
