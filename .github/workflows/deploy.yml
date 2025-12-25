@@ -285,7 +285,7 @@ jobs:
         run: ls -alFR
       - name: '🚀 Create release and upload artifacts'
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
             sudo apt-get update
             sudo apt-get install libfuse2
